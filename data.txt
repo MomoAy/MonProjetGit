@@ -1,2 +1,1 @@
 Ligne ajoutée par feature a
-ligne ajoutée par feature b
